@@ -50,6 +50,7 @@
   * [Go](#go)
   * [Groovy](#groovy)
   * [LaTeX](#latex)
+  * [Markdown](#markdown)
   * [LISP](#lisp)
   * [Lua](#lua)
   * [Haskell](#haskell)
@@ -396,6 +397,12 @@
 
 * [一份其实很短的 LaTeX 入门文档](http://liam0205.me/2014/09/08/latex-introduction/)
 * [一份不太简短的 LATEX 2ε 介绍](http://www.mohu.org/info/lshort-cn.pdf) （PDF版）
+
+### Markdown
+* [Markdown 快速入门](http://wowubuntu.com/markdown/basic.html)
+* [Markdown 简明教程](http://jianshu.io/p/7bd23251da0a)
+* [Markdown 语法说明](http://wowubuntu.com/markdown/)
+* [献给写作者的 Markdown 新手指南](http://jianshu.io/p/q81RER)
 
 ### LISP
 
