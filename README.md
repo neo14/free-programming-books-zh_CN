@@ -379,6 +379,8 @@
 
 * [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
+* [Shell 编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
+* [The Linux Command Line 中文版](http://billie66.github.io/TLCL/book/zh)
 ### Go
 
 * [Go编程基础](https://github.com/Unknwon/go-fundamental-programming)
@@ -420,6 +422,11 @@
 ### R
 
 * [R语言忍者秘笈](https://github.com/yihui/r-ninja)
+* [153分钟学会 R ](http://cran.r-project.org/doc/contrib/Liu-FAQ.pdf)
+* [R 导论](http://cran.r-project.org/doc/contrib/Ding-R-intro_cn.pdf) (《An Introduction to R》中文版)
+* [《R for beginners》中文版](http://www.biosino.org/R/R-doc/files/R4beg_cn_2.0.pdf)
+* [用 R 构建 Shiny 应用程序](http://yanping.me/shiny-tutorial/) (《Building 'Shiny' Applications with R》中文版)
+* [统计学与 R 读书笔记](http://cran.r-project.org/doc/contrib/Xu-Statistics_and_R.pdf)
 
 ### Scala
 
